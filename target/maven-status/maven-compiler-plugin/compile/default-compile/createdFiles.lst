@@ -1,0 +1,4 @@
+com\truck\controller\FoodTruckController.class
+com\truck\service\FoodTruckService.class
+com\truck\FoodTruckApplication.class
+com\truck\model\FoodTruck.class
