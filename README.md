@@ -13,7 +13,12 @@
 "# foodtrucks" 
 
 ###Types of Truck searches
+    
+    -Get All Trucks
+    -/trucks
 
-/trucks
+-Get By Food Type
 /trucks/type/{foodType}
+
+-Get By Food Type and current location and desired distance
 /trucks/type/{foodType}/latitude/{latitude}/distance/{distance}
